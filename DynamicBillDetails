@@ -1,0 +1,88 @@
+<CustomActivity>
+	<Maintenance>N</Maintenance>
+	<AccountSummary>
+		<PeriodCode>ASDF</PeriodCode>
+		<PeriodName>SPRING 2023</PeriodName>
+		<LastName>Manisha. P</LastName>
+		<DateTime>Date: 04/23/2023 Time: 04:05:06 AM</DateTime>
+	</AccountSummary>
+	<AccountDetail id="1">
+		<totBalAmt>$8,310.07</totBalAmt>
+		<currDueDtAmt>$8,310.07</currDueDtAmt>
+		<currDueDt>04/23/2023</currDueDt>
+		<AccountTypeDesc>
+			<![CDATA[Regular Term Bill  <a href="" target="_blank"><span style="font-weight:normal;font-size:16px;font-family:Calibri;"></span></a>]]>
+		</AccountTypeDesc>
+		<AccountTypeDescText>
+			<![CDATA[Regular Term Bill]]>
+		</AccountTypeDescText>
+		<ID>SMP06 - </ID>
+		<LName>Manisha. P</LName>
+		<ShowFinAid>TRUE</ShowFinAid>
+		<ShowInBB>TRUE</ShowInBB>
+		<AccountCode>R</AccountCode>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Balance Forward</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt>$0.00</chrgBalDueAmt>
+			<cbTransAmt/>
+			<BG>1</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Current Period Transactions</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt/>
+			<cbTransAmt/>
+			<BG>2</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Current Period Subtotals</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt>$15,546.65</chrgBalDueAmt>
+			<cbTransAmt>$0.00</cbTransAmt>
+			<BG>3</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Anticipated Financial Aid</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt/>
+			<cbTransAmt/>
+			<BG>2</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Anticipated Financial Aid Subtotals</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt/>
+			<cbTransAmt>$5,314.33</cbTransAmt>
+			<BG>3</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Current Account Balance</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt>$10,232.32</chrgBalDueAmt>
+			<cbTransAmt/>
+			<BG>4</BG>
+		</Transaction>
+		<Transaction>
+			<postTimestamp/>
+			<cbTransDesc>Future Items</cbTransDesc>
+			<cbTransDescText/>
+			<chrgDueDt/>
+			<chrgBalDueAmt/>
+			<cbTransAmt/>
+			<BG>2</BG>
+		</Transaction>
+	</AccountDetail>
+</CustomActivity>
