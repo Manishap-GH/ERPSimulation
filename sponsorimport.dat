@@ -1,0 +1,70 @@
+{
+  "sponsors": [
+    {
+      "description": "sponsor with address",
+      "id": "SPAddr01",
+      "address": {
+        "addressLine1": "123 Main Street",
+        "addressLine2": "Suite 400",
+        "addressLine3": "Building A",
+        "city": "Austin",
+        "state": "TX",
+        "country": "USA",
+        "zipCode": "78701"
+      },
+      "invoices": [
+        {
+          "amount": 1000,
+          "balanceDue": 500,
+          "balances": [
+            {
+              "amount": 1000,
+              "balanceDue": 500,
+              "contractId": "Positive",
+              "itemCode": "SPAddr01",
+              "itemDescription": "SPAddr01 - Sponsor Balance Demo",
+              "students": [
+                {
+                  "id": "MAntony",
+                  "firstName": "MARK",
+                  "lastName": "ANTONY"
+                }
+              ],
+              "termCode": "SPYTD001",
+              "termDescription": "SPYTD001 - SPRING 2023 Demo"
+            }
+          ],
+          "billDate": "2023-09-20",
+          "dueDate": "2023-09-21",
+          "id": "Crab004I1"
+        },
+        {
+          "amount": 100,
+          "balanceDue": -100,
+          "balances": [
+            {
+              "amount": 100,
+              "balanceDue": -100,
+              "contractId": "NegativeBalance",
+              "itemCode": "SPAddr02",
+              "itemDescription": "SPAddr02 - Sponsor Balance Demo",
+              "students": [
+                {
+                  "id": "MAntony",
+                  "firstName": "MARK",
+                  "lastName": "ANTONY"
+                }
+              ],
+              "termCode": "SPYTD001",
+              "termDescription": "SPYTD001 - SPRING 2023 Demo"
+            }
+          ],
+          "billDate": "2023-09-20",
+          "dueDate": "2023-09-21",
+          "id": "Crab004I2"
+        }    
+      ],
+      "name": "SPAddr01 Educational Foundation"
+    }
+  ]
+}
