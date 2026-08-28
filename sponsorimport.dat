@@ -2,15 +2,6 @@
   "sponsor": {
     "description": "sponsor with address",
     "id": "SPAddr01",
-    "address": {
-      "addressLine1": "123 Main Street - edited",
-      "addressLine2": "Suite 400 - edited",
-      "addressLine3": "Building A - edited",
-      "city": "Austin-",
-      "state": "CA",
-      "country": "US",
-      "zipCode": "78702"
-    },
     "invoices": [
       {
         "amount": 1000,
