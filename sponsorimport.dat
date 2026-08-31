@@ -3,7 +3,7 @@
     "description": "sponsor with address",
     "id": "SPAddr01",
     "address": {
-      "addressLine1": "123 Main Street",
+      "addressLine1": "123 Main Street - edited",
       "addressLine2": "Suite 400",
       "addressLine3": "Building A",
       "city": "Austin",
