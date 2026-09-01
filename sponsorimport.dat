@@ -4,7 +4,7 @@
     "id": "SPAddr01",
     "address": {
       "addressLine1": "123 Main Street - edited",
-      "addressLine2": "Suite 400",
+      "addressLine2": "Suite 400 - edit",
       "addressLine3": "Building A",
       "city": "Austin",
       "state": "TX",
